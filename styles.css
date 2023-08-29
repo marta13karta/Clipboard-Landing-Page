@@ -13,11 +13,20 @@ body {
   text-align: center;
 }
 main > * {
-  padding: 30px;
+  padding-left: 25px;
+  padding-right: 25px;
 }
 
 .logo--top {
-  padding: 70px;
+  padding: 90px 70px 50px 70px;
+}
+h1 {
+  font-size: 32px;
+}
+p {
+  margin-bottom: 60px;
+  line-height: 1.5;
+  font-size: 16px;
 }
 
 h1,
@@ -30,7 +39,7 @@ h3,
 .download-ios,
 .download-mac {
   display: block;
-  margin-bottom: 20px;
+  margin-bottom: 25px;
   text-decoration: none;
   color: white;
   font-weight: 400;
@@ -44,21 +53,36 @@ h3,
 }
 .download-mac {
   background-color: hsl(233, 100%, 69%);
+  margin-bottom: 100px;
 }
 
 .devices-img,
 .desktop-img {
-  width: 80vw;
+  width: 85vw;
   margin-bottom: 50px;
 }
+.supercharge-workflow > img {
+  margin-bottom: 30px;
+}
+.featured-logos {
+  display: flex;
+  flex-direction: column;
+}
 .featured-logos > img {
-  display: block;
+  padding: 0px 95px 0px 95px;
+  margin-bottom: 90px;
 }
 .logo--bottom {
   width: 40px;
 }
+footer {
+  background-color: hsla(206, 17%, 92%, 0.557);
+}
 .site-footer > * {
   margin: 20px;
+}
+section {
+  margin-bottom: 100px;
 }
 
 @media (min-width: 375px) {
