@@ -1,3 +1,6 @@
+LIVE - https://github.com/marta13karta/Clipboard-Landing-Page
+
+
 # Frontend Mentor - Clipboard landing page
 
 ![Design preview for the Clipboard landing page coding challenge](./design/desktop-preview.jpg)
