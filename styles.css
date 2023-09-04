@@ -69,10 +69,10 @@ h3,
 }
 
 .download-ios {
-  background-color: hsl(171, 66%, 44%);
+  background-color: hsla(171, 66%, 44%, 0.808);
 }
 .download-mac {
-  background-color: hsl(233, 100%, 69%);
+  background-color: hsla(233, 100%, 69%, 0.808);
 }
 
 .desktop-img,
