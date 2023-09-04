@@ -1,4 +1,4 @@
-LIVE - https://github.com/marta13karta/Clipboard-Landing-Page
+LIVE --- https://marta13karta.github.io/Clipboard-Landing-Page/
 
 
 # Frontend Mentor - Clipboard landing page
