@@ -278,14 +278,14 @@ svg {
   }
   .site-footer {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
-    padding: 0 90px 0 90px;
+    padding: 10px 80px 0 80px;
     margin-bottom: 0;
   }
   .site-footer > * {
     margin: 0;
-    padding: 40px;
+    padding: 20px 0 0 0;
   }
   .footer-links {
     display: grid;
@@ -314,8 +314,8 @@ svg {
 
   .site-footer > img {
     position: relative;
-    max-width: 10vw;
-    left: 80px;
+    max-width: 4%;
+    left: 60px;
   }
   .footer-social {
     display: flex;
